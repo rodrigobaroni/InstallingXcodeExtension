@@ -23,4 +23,4 @@ How to install Xcode extensions
 
 * [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 
-
+![gif json to swift](Image.gif)
